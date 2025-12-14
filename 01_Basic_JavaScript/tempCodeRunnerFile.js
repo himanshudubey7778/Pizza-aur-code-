@@ -1,3 +1,1 @@
-let Username = "Himanshu";
-// console.log(Username);
-// console.log(typeof(Username));
+console.log(friends);
